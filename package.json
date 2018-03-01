@@ -1,6 +1,6 @@
 {
   "name": "react-web-share-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Share button that is using the Web Share API with fallback for browsers that do not support it",
   "main": "./lib/index.js",
   "scripts": {
