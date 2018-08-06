@@ -6,7 +6,7 @@ React Share Button Component that uses the Web Share API with fallback
 [![NPM](https://nodei.co/npm/react-web-share-button.png?mini=true)](https://nodei.co/npm/react-web-share-button/)
 
 # Demo
-[![Edit r439xy43zm](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/r439xy43zm)
+[![Edit r439xy43zm](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/r439xy43zm) [![Greenkeeper badge](https://badges.greenkeeper.io/AvraamMavridis/react-web-share-button.svg)](https://greenkeeper.io/)
 
 # How to use it:
 
